@@ -12,10 +12,6 @@ import os
 import tarfile
 import numpy as np
 
-
-
-
-
 # 有些数据是含有html标签的，需要去除
 import re
 def rm_tags(text):
